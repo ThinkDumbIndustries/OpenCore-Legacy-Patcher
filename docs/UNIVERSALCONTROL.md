@@ -232,6 +232,7 @@ Spoofing to any model with native Ventura support should work, but these are the
 | MacBook Pro Early 2015 13" | MacBookPro12,x | MacBookPro14,1 | ^^ | ^^ |
 | MacBook Pro Mid 2015 15" | MacBookPro11,4 / 11,5 | MacBookPro14,3 | ^^ | ^^
 | iMac Late 2015 21" | iMac16,x | iMac18,2 | ^^ | ^^
+| iMac Retina 4K, 21.5-inch, Late 2015 | iMac16,2 | iMac18,1 | Yes | ThinkDumbIndustries
 | Mac mini Late 2014  | Macmini7,x | MacMini8,1 | <span style="color:red"> NO </span> | N/A |
 | Mac Pro Late 2013 | MacPro6,x | MacPro7,1 | <span style="color:red"> NO </span> | N/A |
 
